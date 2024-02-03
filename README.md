@@ -28,5 +28,7 @@ Contributing
 Contributions are welcome! If you'd like to enhance the model, fix bugs, or propose new features, please follow the standard GitHub fork and pull request workflow.
 
 Acknowledgments
+
 Fashion MNIST dataset creators: Han Xiao, Kashif Rasul, Roland Vollgraf.
+
 Feel free to customize this README to fit your specific project details and style. If you have any questions or need further assistance, don't hesitate to ask!
