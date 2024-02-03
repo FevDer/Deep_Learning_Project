@@ -13,10 +13,15 @@ Model Architecture
 The cloth classifier model is built using PyTorch, a powerful deep learning library. The architecture comprises layers of convolutional and fully connected neural network layers, leveraging PyTorch's flexibility and ease of use for constructing deep learning models.
 
 Requirements
+
 Python 3.x
+
 PyTorch
+
 torchvision
+
 NumPy
+
 Matplotlib# Deep_Learning_Project
 
 Results
